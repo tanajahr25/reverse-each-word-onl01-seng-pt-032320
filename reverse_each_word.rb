@@ -17,3 +17,5 @@ def reverse_each_word(string)
   test_array = []
   array.collect do|string| #iterate over the array
     test_array << string.reverse
+    
+    
